@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  color: #fff;
+}
+
+.top_menu {
+  background-color: #dc1588;
+  height: 50px;
+}
+
+.nav_top_menu {
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 10px;
+}
+
+.nav_top_menu_left {
+  float: left;
+}
+
+.number_phone {
+  color: #ffff63;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.nav_top_menu_right {
+  float: right;
+}
+
+.item_menu {
+  text-align: center;
+}
+
+.item_menu .col-4 {
+  margin-left: 20px;
+}
+
+.item_menu .col-4 a {
+  text-decoration: none;
+  color: #fff;
+}
+.item_menu .col-4 a:hover {
+  color: yellow;
+}
+.main-menu {
+  margin-top: 10px;
+  color: #879aac;
+}
+
+.content_menu {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 20px;
+  height: 60px;
+}
+
+.main_left {
+  float: left;
+}
+
+.main_right {
+  float: right;
+}
+
+.navbar-expand-lg {
+  box-shadow: #fff !important;
+}
+.fa-chevron-down {
+  margin-left: 10px;
+  font-size: 10px;
+  cursor: pointer;
+}
+.img-fluid {
+  width: 100%;
+}
